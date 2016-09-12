@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Welcome
+title:  Welcome TO MY WEBPAGE
 ---
 
 # {{ page.title }}
